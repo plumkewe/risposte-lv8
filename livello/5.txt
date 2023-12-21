@@ -1,0 +1,182 @@
+# Livello 5
+
+### Episodio 1 - Dal tramonto all'alba
+D: Mettiti alla prova con quello che hai imparato dagli appunti dell'Amico Hacker.
+R: Sito web: www.ilmiositoweb.com
+   Nome di dominio: il mio sito web evidenziato in cerchio rosso
+   URL: https://ilmiositoweb.com
+   Dominio di primo livello: .com evidenziato in cerchio rosso
+---------------
+D: Si può accedere a WordPress da mobile?
+R: Sì
+---------------
+D: Tu e Milo prendete possesso dello smartphone di Sara e cercate la app di WordPress. Seleziona l'opzione corretta.
+R: W nel cerchio blu
+---------------
+D: Sara: "Ok, quindi che nome di dominio scegliamo?" Pietro: "Qualcosa con ‘skateboard’." Milo: "Qualcosa con ‘GreenUs’." Sara: "Magari tutti e due?" Siete arrivati a restringere il campo a tre nomi ma nessuno dei tuoi soci rinuncia alla propria idea. Scegli tu?  
+R: GreenUs
+---------------
+D: Dove clicchi per scegliere un tema?
+R: Temi
+---------------
+D: Dove clicchi per scrivere il titolo del sito?
+R: Identità del sito
+---------------
+D: Dove clicchi per impostare la home page?
+R: Pagine
+---------------
+D: Dove clicchi per creare il menu personalizzato?
+R: Menu
+---------------
+D: Dove clicchi per creare i pulsanti di interazione con l'utente?
+R: Marketing
+---------------
+D: 1. Completa con il termine corretto.
+R: **Il codice** è un insieme di regole e istruzioni scritte in un linguaggio di programmazione specifico che ci permette di com nicare con le macchine.
+R: **I programmatori** usano il codice per creare programmi che vengono eseguiti sulla
+maggior parte dele machine che vedi e utilizzi ogni giorno come laptop, telefoni, TV,
+automobili ed elettrodomestici connessi a Internet (smart home).
+R: Per creare programmi, programmatori scrivono brevi sequenze di attività, dette **algoritmi** che devono essere eseguite dalle macchine.
+R: Il **web** è una raccolta di miliardi di pagine di informazioni create utilizzando il codice.
+---------------
+
+
+### Episodio 2 - X-Factor: GreenUs Edition
+D: Avete deciso di creare un profilo aziendale su LinkedIn per GreenUs. Per farlo, però, ognuno di voi ha bisogno di creare un proprio account personale. Visto che nessuno di voi ha idea di come funzioni LinkedIn, unite le forze e vi mettete insieme a creare quello di Pietro, che in quanto a social tra voi è il più analfabeta. Tanto per cominciare, per iscrivervi vi serve:
+R: Un indirizzo mail
+---------------
+D: Sara: “Siamo dentro? Ottimo, partiamo dalla foto del profilo: quale prendiamo?
+R: Illustrazione con nessun particolare, capelli normali e occhiali.
+---------------
+D: Dopo aver inserito i dati personali, iniziate a completare il profilo. Per farlo, è LinkedIn stesso a suggerire a Pietro le azioni da svolgere: inserire informazioni sul percorso di studi, tracciare una breve descrizione della sua personalità, delle competenze che ritiene di possedere, delle sue esperienze lavorative… Pietro: “Posso dirvi che non ho la minima idea di cosa scrivere in questo campo?”.  Milo: “Lascia fare a noi…” Quali di queste descrizioni proposte da Milo e Sara è più indicata per il profilo LinkedIn di Pietro?
+R: Ho sempre avuto un grande interesse per la sperimentazione e le scienze agroalimentari. Da queste inclinazioni è nato GreenUs, un "green bar" fondato insieme a tre soci (e amici) che distribuisce bevande a basso impatto ambientale. All'interno di GreenUs mi occupo della creazione delle Sbeeruline, le nostre bevande a base di alghe. L'obiettivo del nostro progetto, oltre a dissetare i clienti, •- è di sensibilizzare le persone Su temi come l'ecologia e il consumo sostenibile. Nel corso di questa esperienza ho compreso che la determinazione e la capacità di adattamento sono due dei miei punti di forza.
+---------------
+D: Pietro: “Con la descrizione mi avete messo un po’ in imbarazzo… pensiamo al prossimo passo?” Sara: “Qui suggerisce di inserire la località. Secondo voi cosa si intende?” Quali di questi luoghi ha senso indicare come “località” su LinkedIn?
+R: Il paese di 800 abitanti in cui Pietro è nato **forse non ha molto senso**
+   L’indirizzo di residenza di Pietro (casa dei suoi) **forse non ha molto senso**
+   La città in cui Pietro vive oggi **ha senso**
+   La regione in cui GreenUs può muoversi con facilità **ha senso**
+   Una località in cui Pietro non vive, ma in cui ha sempre sognato di trasferirsi **ha senso**
+---------------
+D: Milo: “Uh, mi ha scritto mio padre. Dice che se vogliamo inserire l’URL di LinkedIn nel CV, nella firma della mail o nei biglietti da visita, possiamo modificarlo”. Pietro: “Boh ma va bene anche così dai.” Milo: “www.linkedin.com/in/pietro-greenus-5225a1240? A me convince. Sicuramente è unico.” A te e Sara invece non convince per nulla. Com’è possibile accorciare l’URL della propria pagina LinkedIn?
+R: Bisogna solo modificare le informazioni di contatto, dal menù del profilo personale. ***
+---------------
+D: Il primo candidato si chiama Leone Digitale. Decidete di passare in rassegna le varie voci del CV e di valutarlo nelle sue varie parti: 
+R: Informazioni di contatto: non professionali ***
+   Livello di istruzione: più che sufficiente
+   Descrizione: convincente
+   Esperienza lavorativa: non adatta al ruolo
+   Competenze: non adatte al ruolo
+---------------
+D: L’altro CV è di Costanza Hackermann…
+R: Informazioni di contatto: professionali
+   Descrizione: convincente
+   Occupazione attuale: convincente
+   Esperienze lavorative: adatte al ruolo
+   Competenze: adatte al ruolo
+---------------
+D: Come mai vuoi lavorare per GreenUs?
+R: Vignetta arancione
+---------------
+D: Che cosa sai di GreenUs?
+R: Vignetta verde
+---------------
+D: Quali sono i tuoi più grandi punti di forza e di debolezza?
+R: Vignetta gialla
+---------------
+D: Dove ti vedi tra 5 anni? 
+R: Vignetta azzura
+---------------
+D: Il momento è arrivato: avete deciso di aggiungere un’altra sedia al tavolo, quindi... Chi fate sedere?
+R: Vignetta gialla
+---------------
+
+
+### Episodio 3 - Squadra che vince non si cambia
+D: Il vecchio PC di Pietro torna a dominare il campo, Foglio nuovo aperto: 150 litri di Sbeerulina al giorno, 25 litri in ogni fusto, quanti fusti per coprire 3 giorni 3 di concerto?
+R: 18
+---------------
+D: "Ma quindi quanti bicchieri da 40 cl serviranno al giorno per servire 150 litri di sbeerulina?"  Seleziona l’opzione corretta:
+R: 375
+---------------
+D: Questo era solo il riscaldamento. Ora bisogna darsi da fare con Fogli Google. Abbina la formula all’azione corretta.
+R: moltiplicazione: = (A1*A2)
+   divisione: = (B1/B2)
+---------------
+D: Come si calcolano i guadagni di un evento?
+R: Sottraendo il totale dei costi al totale dei ricavi
+---------------
+D: Come si calcola la percentuale di spesa sul totale incassato, sapendo che il totale d’incasso è 10.000€ e le spese ammontano a 6.500€? 
+R: 6.500: 10.000 = x: 100 (6.500 * 100) * 10.000
+---------------
+D: Se il totale di spesa è 2.100 €, quanto vale il suo 15%? Seleziona l’opzione corretta:
+R: 315
+---------------
+D: La curva è in delirio, ma non potete fermarvi qui, senza scoprire tutti ma proprio tutti i trucchi di Google Fogli. Tocca a te guidare i tuoi compagni ancora una volta. Google Fogli ti permette di:
+R: Fare una lista delle cose da fare: vero
+   Calcolare le proprie spese: vero
+   Definire un piano di progetto: vero
+   Elaborare grafici, tabelle e database: vero
+   Modificare video: falso	
+   Fare calcoli di ogni tipo: vero
+---------------
+
+
+### Final Quiz
+D: Associa i termini tra loro in modo corretto:
+R: https://www.lv8.eu/registration: URL
+   www.lv8.eu: sito web
+   lv8.eu: nome di dominio
+   .eu: dominio di primo livello
+---------------
+D: Per creare un sito web non devi necessariamente essere un programmatore: ti basta saper usare un ...
+R: CMS
+---------------
+D: WordPress è perfetto per creare blog personali ma non è adatto per creare siti aziendali.
+R: Falso
+---------------
+D: I big data sono complessi algoritmi che consentono di prevedere i gusti e i comportamenti delle persone
+R: Falso
+---------------
+D: Per comunicare con una macchina (es. il computer) attraverso il codice, bisogna conoscere specifici linguaggi di programmazione. 
+R: Vero
+---------------
+D: Ad un colloquio di lavoro, cerca di mostrarti il più appariscente ed estroverso possibile. In questo modo verrai sempre premiato.
+R: Falso
+---------------
+D: Nella cella E6 va inserito il totale ottenuto dalla vendita di tutte le magliette. Componi la formula nel modo corretto:
+R: =SOMMA(E3:E5)
+---------------
+D: Ad un evento incassate 7850€ e decidete di devolverne in beneficenza il 40%. Quanti soldi devolvete in beneficenza?  Completa la proporzione per fare il calcolo in modo corretto, e scrivi il risultato nello spazio sotto. 
+R: 7850:100 = x:40 →→→ Calcolo x = (7850*40)/100 === 3140
+---------------
+D: A quali di questi consigli faresti bene a dare ascolto prima di recarti a un colloquio di lavoro?
+R: [1] Svolgi ricerche e informati bene sull’azienda presso cui andrai a svolgere il colloquio: Fidati
+   [2] Punta a mostrarti il più possibile senza difetti e a nascondere tuoi eventuali punti deboli: Non ascoltare
+   [3] Pensa con anticipo alle risposte che potresti dare a domande sul tuo futuro e sulle tue ambizioni: Fidati
+   [4] Sii in grado di comunicare quali sono le tue ambizioni e perché proprio quello sarebbe il lavoro giusto per te: Fidati
+---------------
+D: Gli algoritmi sono brevi sequenze di istruzioni, definite da **i programmatori**, che **le macchine** eseguono in un preciso ordine.
+R:
+---------------
+
+
+## Contenuti extra
+### Approfondimento 1: Favij alla scoperta di LinkedIn
+### Approfondimento 2: Il CV di Favij
+### Approfondimento 3: Il primo colloquio di Favij
+
+
+## Challenge Certificazione: Open Badge 'Player'
+D: Cosa si era dimenticato di fare Pietro?
+R: Completare il budget
+---------------
+D: Guarda la tabella qui sopra: con quale formula calcoli il costo dei bicchieri da 0,5 l?
+R: =B2*C2
+---------------
+D: Guarda la tabella qui sopra, inserisci la formula per calcolare il TOTALE (Cella D8) e poi inserisci il Costo totale in €.
+R: SOMMA (D2:D7) === 8385
+---------------
+D: Quanti hashtag (#) ha inserito Milo? Cerca su LinkedIn la pagina di GreenUs, e guarda il post in bacheca pubblicato.
+R: 8
+---------------

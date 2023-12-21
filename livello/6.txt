@@ -1,0 +1,189 @@
+# Livello 6
+
+### Episodio 1 - Ritorno al successo
+D: Tutti: “CHE COS’È IL WEB LISTENING?” - mostra a Costanza che la stai ascoltando, completando la sua spiegazione:
+R: Si chiama Web Listening (o web **monitoring**) l’attività di **ascolto** e monitoraggio di quello che viene condiviso sul **Web** in merito a determinati argomenti, aziende o brand. Grazie alla raccolta e all’analisi delle recensioni, dei commenti e delle opinioni degli **utenti**, si possono adottare azioni strategiche per migliorare, ad esempio, la propria **reputazione online** o l’ingaggio dei propri **follower**.
+---------------
+D: Pietro: "Sembra un’operazione molto complessa. Sono passati due mesi... come possiamo fare Web Listening e scoprire cosa hanno detto le persone in rete rispetto al concerto?" 
+R: Niente panico! Esistono deli strumenti che semplificano la ricerca in rete.
+---------------
+D: Pronto ad aiutare Milo e a scoprire Google Trends? Apri l’app:
+R: Freccia multi color rivolta verso alto
+---------------
+D: Attraverso Google Trends è possibile:
+R: Esplorare gli interessi su un dato argomento partendo da una ricerca specifica: Inserisci un termine di ricerca o un argomento
+   Vedere cosa c’è in tendenza, ossia cosa gli utenti cercano maggiormente su Google: Tendenze nelle ricerche
+   Osservare le ricerche di tendenza degli utenti in tempo reale e i trend: TENDENZE DI RICERCA IN TEMPO REALE
+   Filtrare le ricerche di tendenza secondo i propri interessi (es. argomento, area geografica ecc.): Tutto il mondo; Ultimi 12 mesi; Tutte categorie; Ricerca Google
+---------------
+D: Dove clicchi per paragonare l’interesse al tuo termine di ricerca ("Spirulina") con un altro termine di ricerca (es. "Wakame")?
+R: 1
+---------------
+D: Dove clicchi per filtrare la ricerca per paese, per visualizzare solo i risultati di ricerca per l’Italia?
+R: 1
+---------------
+D: I vostri sguardi vanno automaticamente a Costanza. Costanza entra in azione:
+R: "L’attività di monitoraggio dei propri social network, che permette di verificarne l’efficacia e l’andamento, è chiamata Social Media **Analytics**. Usando i dati generati dai social puoi osservare nei minimi dettagli come si comporta il tuo pubblico e scoprire qual è il tuo **posizionamento** online. Analizzando questi dati e **metriche** dei Social Media Analytics puoi capire come sfruttare al meglio l’enorme potenzialità dei tuoi canali social (ad esempio, puntando sui contenuti che vengono maggiormente apprezzati dal pubblico.)"
+---------------
+D: Milo: "Non sono sicuro di aver capito: nel nostro caso, analizzare i Social Media Analytics a cosa ci può servire?"
+R: Vignetta con bubble giallo e testo bianco
+---------------
+D: Milo: "Mi è più chiaro. Ma giusto per essere sicurissimi, mi dite quali di questi strumenti sono pensati per fare Social Media Analysis e quali no?"
+R: Facebook Insights: sì
+   Kahoot!: no
+   Instagram Insights: sì
+   Hootsuite: sì
+   LinkedIn Insights: no
+---------------
+D: Questo report di Instagram Insight indica che, rispetto allo scorso mese, le visite al vostro profilo Instagram sono aumentate.
+R: Falso
+---------------
+D: Questo grafico di Facebook Insights indica che i “mi piace” alla vostra pagina vengono principalmente da donne di età compresa tra i 25 e i 34 anni.
+R: Vero
+---------------
+D: Questo grafico di LinkedIn Analytics indica che il 3 e il 5 agosto 2 utenti hanno visitato la vostra pagina LinkedIn.
+R: Vero
+---------------
+D: Secondo te, ogni quanto andrebbe fatta un’analisi approfondita dell’andamento dei social del tuo business?
+R: Una volta al mese, massimo un mese e mezzo
+---------------
+
+
+### Episodio 2 - Una fonte d’ispirazione
+D: Costanza: “Passiamo alla fase 2 ragazzi. Dopo aver analizzato i trend e gli analytics, ora dobbiamo fare un passo avanti, ovvero…”
+R: Chiediamo direttamente alle persone
+---------------
+D: Milo non sembra convinto fino in fondo. Illustra al tuo socio quali sono i VERI vantaggi del digitale quando si vogliono sottoporre le persone ad un questionario.
+R: Potremo raggiungere più persone!: vero
+   Le persone daranno pareri generalmente più positivi: falso
+   La raccolta dei risultati sarà più semplice e precisa: vero
+   Saremo liberi di non ascoltare i pareri degli utenti senza offenderli: falso
+---------------
+D: Milo: “Bhe, da dove cominciare ormai lo sappiamo. Cerchiamo di fare un piano, facendo un elenco delle cose da fare e poi dandoci delle priorità”. Milo vi sorprende sempre con queste uscite. Ordina dal primo all’ultimo i passaggi di creazione di un questionario: 
+R: 1. definire l’obiettivo e il target
+   2. progettare la struttura e le domande
+   3. scrivere un messaggio di accompagnamento/ringraziamento
+   4. lanciare il questionario online
+   5. pubblicizzare il questionario online
+   6. chiudere il questionario
+   7. Analizzare le risposte
+---------------
+D: Una volta fatta un po’ di ricerca…quale tra questi NON è uno strumento per la creazione di questionari?
+R: Salesforce
+---------------
+D: Aprite Survey Monkey e iniziate a creare il vostro questionario. Tra le seguenti domande, come tipologia, quale ti sembra la più adatta per cominciare?
+R: Risposte multiple
+---------------
+D: Volete indagare quanto i vostri clienti gradiscono la nuova Sbeerulina all’anguria. Quale di queste scale scegliete di utilizzare?
+R: Per niente, poco, abbastanza, molto, moltissimo
+---------------
+D: Alla fine del questionario decidete di raccogliere dei suggerimenti dai vostri clienti. Come fate?
+R: 10. Se hai suggerimenti o feedback per aiutarci a migliorare, condividi il tuo pensiero con noi
+---------------
+D: Qualche giorno dopo vi ritrovate ad analizzare le risposte dei vostri follower ai questionari. Guardando i grafici iniziate a discutere sul modo corretto di interpretarli. Seleziona l’opzione corretta
+R: Ci sono più persone che apprezzano molto la sbeerulina, rispetto alle persone che la apprezzano poco.
+---------------
+D: Sempre secondo questo grafico, chi apprezza maggiormente la sbeerulina all’anguria?
+R: Chi ha meno di 25 anni.
+---------------
+D: Milo: "Ragazzi, ma possiamo escludere le riposte che non ci piacciono toglierle dall'analisi?" e
+R: No
+---------------
+D: Mettendo insieme le risposte alle domande del questionario iniziano ad emergere alcune evidenze sui desideri dei vostri follower. Costanza: “Come sospettavo…” Sara: “Ma certo! E tu Costanza avevi già capito questa cosa??? È incredibile…” Costanza: “Eh, ma i dati e le risposte parlano chiaro…” Pietro e Milo ti guardano con un misto di disperazione e speranza: a cosa si riferiscono le vostre socie? Rifletti sui vari grafici che hai visto e individua le intuizioni corrette:
+R: Iniziamo ad immaginare un menù di cibi a base di alga, o comunque ecologici, per ampliare la nostra base **ERRATA** Produciamo nuove tipologie di Sbeerulina con gusti più adatti ad un pubblico over 25 **ERRATA** Organizziamo una serie di eventi a tema ecologico che coinvolgano persone da tutta Italia **CORRETTA** Trasformiamo la Sbeerulina in una bevanda alcolica ed iniziamo un tour itinerante per l’Italia **ERRATA**
+---------------
+
+
+### Episodio 3 - L’unione fa il “green bar digitale”
+D: Apri lo strumento con cui fare la presentazione:
+R: Icona gialla con un rettangolo
+---------------
+D: Potete forse sottrarvi ad una proposta del genere? Si parte! Quando si crea una presentazione è sempre utile partire da dei modelli che Google propone... Dove cliccheresti per aprirli?
+R: 1 ovvero 'tema'
+---------------
+D: Costanza: "Bene. Ora che avete impostato il tema, cambiate la disposizione degli elementi della slide, ad esempio titolo, sottotitolo, testo."
+R: 2 ovvero 'layout'
+---------------
+D: Costanza: "Ora che avete creato le prime slide, dove cliccate per aggiungere le immagini?"
+R: 2 paesaggio montagnoso
+---------------
+D: Costanza: "Mentre per ravvivare un po’ la presentazione, dove cliccate per inserire una forma?"
+R: 1
+---------------
+D: Pensi che quella di Pietro sia una buona idea?
+R: Assolutamente sì: dobbiamo parlare di ciò che ci rende unici
+---------------
+D: Sara: "Secondo me prima ancora di parlare di noi dovremmo dichiarare l’obiettivo della riunione, in modo da chiarire perché siamo lì e che cosa ci aspettiamo dai ragazzi di HereWeApp… Siete d’accordo?"
+R: Vignetta con la scritta 'siamo daccordo'
+---------------
+D: Milo: "Abbiamo ancora un po’ di slide libere… quali tra queste due informazioni vale la pena inserire secondo voi?"
+R: Un racconto approfondito sulla storia di GreenUs e sui risultati raggiunti
+---------------
+D: Sicuramente nella vostra presentazione non può mancare una slide con la vostra idea sull’organizzazione degli eventi a tema green, e quindi del tipo di collaborazione che vorreste stringere con HereWeApp. Quale tra le seguenti slide ti sembra la più efficace?
+R: Slide suddivisa a meta, una colorata in bianco con la scritta verde
+---------------
+D: Sara: "La presentazione è finalmente pronta. In tutto abbiamo scritto 100 slide. Dite che sono troppe?"
+R: Cos' è, la Divina Commedia? Tagliamo!
+---------------
+D: Sara: "Ci voleva proprio questo taglio di contenuti. 20 slide sono un buon numero per un primo appuntamento." Milo: "Ora che è pronta cosa facciamo? La rileggiamo o la chiudiamo così?"
+R: Rileggiamo!
+---------------
+D: Pietro: "Ok, ora possiamo dire di aver finito per davvero. Salviamo il documento e andiamo a brindare una nuova miscela di sbeeru..." Sara: "Aspetta! Come lo salviamo?" Pietro: "Cliccando sull’icona “salva”"?
+R: Falso
+---------------
+D: Riporta i tuoi soci sul giusto binario, aiutandoli a capire cosa fare e cosa non fare:
+R: Esporre i concetti in modo spontaneo e ingaggiante **Da fare**
+   Esercitarsi ad esporre la presentazione ad alta voce prima dell’evento vero e proprio **Da fare**
+   Leggere tutto quello che c’è sulla slide, senza tralasciare nessun dettaglio **Da non fare**
+   Guardare le slide, e non il tuo pubblico **Da non fare**
+   Rispettare le tempistiche prefissate per l’esposizione **Da fare**
+   Personalizzare il tono di voce (formale, informale, divertente) in base al pubblico che hai di fronte **Da fare**
+---------------
+
+
+### Final Quiz
+D: L’attività di ascolto e monitoraggio di contenuti condivisi sul Web in merito a determinati argomenti è diffusa nell’ambito del digital marketing. Il nome dell'attivitá è...
+R: web listening
+---------------
+D: Attraverso Google Trends è possibile analizzare le tendenze in rete e l’andamento degli interessi relativi a determinati settori.
+R: Vero
+---------------
+D: Osserva il grafico e completa nel modo corretto:
+R: Secondo Google Trends, negli ultimi **12 Mesi**, in **Italia**, i **Cani** sono stati ricercati di più rispetto ai **Gatti*
+---------------
+D: Indica se le seguenti affermazioni sono vere o false, in base al grafico.
+R: 1. In 5 anni Messi è stato ricercato più di Ronaldo in due occasioni: V
+   2. In Portogallo Messi è di solito più ricercato di Ronaldo: F
+   3. Negli ultimi 5 anni Ronaldo è stato ricercato più o meno quando Messi: F
+   4. Nella categoria Sport, Messi e Ronaldo sono le ricerche effettuate più di frequente in Portogallo: F
+---------------
+D: Grazie ai Social Media Analytics (ossia all’attività di monitoraggio dei propri social network) è possibile raccogliere molti dati e informazioni sui propri follower.
+R: Vero
+---------------
+D: Vuoi scrivere un questionario per raccogliere feedback su un evento. Metti nell’ordine corretto i passaggi fondamentali da seguire: 
+R: 1. Definire l’obiettivo e il target (a chi è rivolto)
+   2. Progettare la struttura e le domande
+   3. Lanciare il questionario online
+   4. Pubblicizzare il questionario online
+   5. Chiudere il questionario e analizzare le risposte
+---------------
+D: Gestisci una pizzeria e avete appena lanciato la nuova pizza ananas, avocado e mango, la Manvocadanas. Che domanda inseriresti in un questionario per misurare in termini quantitativi il gradimento dei tuoi clienti?
+R: Che voto daresti alla pizza Manvocadanas da 1 a 10?
+---------------
+D: Tu e i tuoi soci avete organizzato un evento culturale dal titolo: “Lontre: animaletti carini o predatori implacabili?”.  Al termine dell’evento avete chiesto: “Da 1 a 5, quanto ritieni che questa esperienza sia stata divertente? E quanto istruttiva?”. Guardando il grafico e le risposte, i partecipanti hanno ritenuto l’esperienza:
+R: Più istruttiva
+---------------
+D: Assegna i termini corretti agli elementi numerati nell’immagine:
+R: 1. Inserisci testo
+   2. Inserisci immagine
+   3. Inserisci forma
+   4. Stile della presentazione
+---------------
+D: Anche se non sei connesso a Internet, le presentazioni fatte con Presentazioni Google si salvano automaticamente.
+R: Falso
+---------------
+
+
+## Contenuti extra
+### Approfondimento 1: Google Trends e Moduli Google
+### Approfondimento 2: Presentazioni di successo: il caso Apple

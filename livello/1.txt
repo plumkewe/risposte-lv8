@@ -1,0 +1,124 @@
+# Livello 1
+
+### Episodio 1 - Come creare un green bar su quattro ruote?
+D: Mettere su un bar dal niente non facile, un green bar a maggior ragione. La prima cosa che vi viene in mente di fare, come sempre, è di prendere in mano lo smartphone e iniziare una ricerca su…
+R: Google (non chrome)
+---------------
+D: Per prima cosa decidete di googlare coltivare alghe commestibili. P.S. Ricorda che puoi cercare su Google la risposta corretta! Google vi restituisce…
+R: più di 10mila risultati in meno di 1 secondo
+---------------
+D: Un mare di risultati rappresenta un mondo di possibilità… ma comporta anche il rischio di perdersi e non trovare quello che si sta cercando. Pietro, ad esempio, ricorda di aver letto un articolo su www.ricettestrane.gnam, in cui si parlava di alcuni antichi modi per cucinare le alghe – ma non riesce a ritrovarlo. Come potete trovare su Google un articolo o una pagina web, quando sapete già che si trovano all’interno di un certo sito?
+R: Digitate site: davanti al nome del sito in cui volete cercare e poi inserite le parole chive della ricerca. Ad esempio site: www.ricettestrane.gnam antica ricetta alghe
+---------------
+D: Avete bisogno di un attimo per riprendervi dallo shock: anni a cercare roba su internet e non avevate mai sentito di queste tecniche. Pietro: "Sto guardando un po' su internet e se volete ce ne sono degli altri..." Il gioco si fa duro: ognuno di questi trucchi genera Un effetto sulla ricerca. Associa nella maniera corretta: Sto facendo dele ricerche sulle parole Alghe e Wakame e...
+R: Voglio tutti risultati in cui appaiano entrambe le parole. Scriverò: Alghe AND Wakame
+   Voglio tutti risultati in cui appaiano o una parola l'altra Alghe OR Wakame
+   Ora non voglio più risultati in cui appaia la parola Wakame Alghe - Wakame
+---------------
+D: Siete a smanettare con il digitale da 10 minuti e a Milo sono venute alla mente le parole di una canzone che ad un certo punto dice you can’t hack my digital. Non si ricorda però l’artista. Cercate su Google il testo, anche aggiungendo la parola chiave song, ma non trovate niente. Come fate?
+R: Scrivete you can't hack my digital, inserendolo tra virgolette (" "), così: "you can't hack my digital"
+---------------
+D: Sara: “Ok, abbiamo cercato abbastanza. Ora cerchiamo di contattare persone che coltivano già alghe come la nostra. Qui vedo alcuni risultati che possono interessarci, ma diversi linkano a pagine vecchie e si riferiscano ad attività che non esistono più. Non c’è un modo per cercare solo contenuti recenti?” Guarda l'immagine. Se pensi che un modo ci sia, suggerisci ai tuoi soci dove cliccare:
+R: Suggerisci di cliccare su Strumenti
+---------------
+D: Hai smanettato? Bene, perché i tuoi soci ti vogliono mettere alla prova. Quale di queste sezioni NON esiste?
+R: Google Fitness
+---------------
+D: Siete sotto attacco. Il sito malevolo usa notizie multiple sull'olio di palma".
+Smanettando sul web, distingui in modo corretto le nozioni vere da quelle false:
+R: L'olio di palma non deriva realmente dale palme Falso
+   Le coltivazioni di olio di palma impattano pesantemente l' ambiente Vero
+   Coltivare altri tipi di piante da olio come arachidi e semi di girasole sarebbe più ecologico Falso
+   L'olio di palma è cancerogeno e può procurare malattie come il diabete Falso
+   L'olio di palma è UnO dei principali ingredient della Nutella Vero
+   Dietro allo scandalo sull'olio di palma ci sono le multinazionali del burro Falso
+---------------
+D: Ma cos…? Sul Sito Malevolo sono apparse delle fotografie di persone con la faccia di… Milo. Sara: “Milo, sei tu questa persona che stringe la mano al presidente degli Stati Uniti?!” Milo: “Evidentemente no...” Individuate la tecnica usata dal sito malevolo per proteggervi da questo attacco.
+R: Deepfake
+---------------
+D: Anche se avete fatto il massimo per ridurre i danni, Milo è allo stremo delle forze. Il sito sta caricando una nuova ondata di Fake News sul terrapiattismo. L’unica vostra possibilità, a questo punto, è contrattaccare. Seleziona la mossa in grado di neutralizzare le fake news:
+R: Verifica fonti
+---------------
+
+
+### Episodio 2 - I trucchi dei mastri coltivatori
+D: Detto fatto, eccovi sul sito di Gmail per aprire il vostro account. Sara: "Come chiamiamo il nostro indirizzo?"
+R: greenus.bar@gmail.com
+---------------
+D: Milo: “Ok, e come password che cosa scegliamo?”
+R: Gr&&nUs4*
+---------------
+D: Pietro: "Qui c’è scritto ‘oggetto’. Lo dobbiamo compilare secondo voi?"
+R: Si
+---------------
+D: Milo: "Che cosa succede se clicchiamo questo tasto?"
+R: Inserisci un link
+---------------
+D: Sara: "Questi sembrano gli indirizzi mail dei suoi colleghi. Che cosa vuol dire questo ‘CC’ secondo voi?".
+R: Copia Conoscenza
+---------------
+D: Milo: "Ok. Quindi facciamo ‘rispondi’ o ‘rispondi a tutti’?".
+R: Rispondi a tutti
+---------------
+D: Apri l’app di Google Calendar.
+R: Icona con numero 31
+---------------
+D: Nell’app di Google Calendar, dove clicchi per modificare la visualizzazione del calendario (es. visualizzare l’intera settimana, l’intero mese, ecc.)?
+R: 1
+---------------
+D: Nell’app di Google Calendar, dove clicchi per creare un nuovo evento?
+R: 2
+---------------
+D: Il cloud, o nuvola informatica, non è un'entità fisica, ma una vasta rete di Server (ossia, potenti e capienti computer ubicati in tutto il mondo) collegati tra loro e nella quale vengono archiviati tutti i dati online.
+R: Server
+---------------
+D: Quando si salvano i dati nel cloud questi sono sempre accessibili ovunque tu vada, basta solo una Connessione internet.
+R: Connessione internet
+---------------
+D: Anziché accedere a file e dati esclusivamente da un computer locale, vi accederai online, da qualsiasi Dispositivo ed in qualsiasi luogo.
+R: Dispositivo
+---------------
+D: Cerca di dare a Pietro le risposte corrette: 
+R: 
+---------------
+
+
+### Final quiz
+D: Fare ricerche su Google prima di avviare un’attività può risultare utile per iniziare a conoscere chi già ha un’attività simile (mercato di riferimento).
+R: Vero
+---------------
+D: Quando si effettua una ricerca sul web, è possibile ottenere risultati più precisi digitando ... nella barra di ricerca. 
+R: Determinati simboli
+---------------
+D: È sufficiente creare un solo account Google per accedere alle diverse applicazioni di Google Workspace (es. Gmail, Google Calendar, Google Drive, ecc.)  
+R: Vero
+---------------
+D: Una password sicura contiene un mix di ...
+R: lettere, numeri e caratteri speciali
+---------------
+D: Su Google è possibile filtrare i risultati della ricerca in base alla data della loro pubblicazione (ultime 24 ore, ultima settimana, ecc.).
+R: Vero
+---------------
+D: In una e-mail, CC sta per ... e serve a inserire un destinatario che sarà visibile agli altri. 
+R: Copia Conoscenza
+---------------
+D: Non è possibile creare un nuovo evento con Google Calendar da mobile 
+R: Falso
+---------------
+D: La funzione principale di Google Drive è l'archiviazione di documenti nel ...
+con la possibilità di ...
+R: cloud, condividerli con altri collaboratori
+---------------
+D: Gli spider sono virus informatici che si espandono a ragnatela su tutti i contenuti personali.
+R: Falso
+---------------
+D: Riempi gli spazi con i termini corretti Caricare un documento su Google Drive ti permette di:
+R: **salvare** in automatico le modifiche quando sei connesso online
+   **accedere** al documento da altri dispositivi come smartphone e tablet
+   **condividere** il documento con i tuoi colleghi per poterci **lavorare** insieme
+---------------
+
+
+## Contenuti extra
+### Approfondimento 1: Ecosia e i motori di ricerca
+### Approfondimento 2: Scopri i segreti di Google

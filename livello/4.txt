@@ -1,0 +1,142 @@
+# Livello 4
+
+### Episodio 1 - Niente panico
+D: Come pensate di muovervi per organizzare lo stand?
+R: Abbiamo già pensato ad una lista di cose da fare, e stavamo per andare dagli organizzatori per porre loro alcune domande
+---------------
+D: Vi siete fatti un’idea di QUANTE persone partecipano a concerti come questo?
+R: Sì, più o meno abbiamo dedotto una stima, andando a verificare il numero di persone che hanno partecipato all'ultimo concerto organizzato in Piazza Duomo
+---------------
+D: Avete un budget?
+R: No, ma basandoci sulla stima delle persone, possiamo calcolare un budget col quale restare con qualcosa da parte
+---------------
+D: Bene, l’indirizzo è inserito, ora l’oggetto della e-mail…
+R: Richieste permessi per il concerto in Piazza Duomo
+---------------
+D: Come sapete, dopo l’oggetto bisogna scrivere il testo nel “corpo” della mail. Prima di farlo, però, ragionate insieme sull’organizzazione del testo, mettendo in ordine le varie azioni:
+R: Ringraziate e vi congedate: 5
+   Salutate: 1
+   Esponete gli altri concetti fondamentali in modo chiaro e sintetico: 4
+   Spiegate il motivo per cui state scrivendo la mail: 3
+   Vi presentate: 2
+---------------
+D: Sara: “Va bene ragazzi, partiamo: come vogliamo rivolgerci all’assessore?”
+R: Gentile Ass. Bianchi, Scrivo a nome mio e dei miei 3 soci, con - 0 quali ho avviato da poco un attività di produzione e di vendita al dettaglio di bevande green artiggianali. Il nome della società è GreenUs ~ partecipante al concerto di Piazza Duomo.
+---------------
+D: Pietro: “Ora andiamo al sodo e spieghiamogli che cosa vogliamo.” Milo: “Ho scritto due versioni. Qual è la migliore secondo voi?”
+R: Insieme a un noto influencer vorremmo organizare un concerto in Pizza Duomo con 'obiettivo di mostrare come giovani imprenditori possano avere un impatto significativo allo sviluppo della città. La contattiamo per capire cosa dobbiamo fare per avere - seguenti permessi comunali che mancano per procedere. Inoltre, se fosse disponibile CI piacerebbe approfondire a voce il nostro progetto.
+---------------
+D: Milo: “Come concludiamo?”
+R: Rimaniamo in attesa di un suo cortese riscontro. Cordiali saluti, il team di GreenUs.
+---------------
+D: Ok, la mail è chiusa… Milo scalpita: "Inviamo?"
+R: Vignetta con scritta "rileggiamo"
+---------------
+D: In effetti era proprio il caso di ricontrollare. Sara vi segnala alcune parti della mail che forse meritano di essere sistemate...
+R: Gentile Ass. Bianchi, Scrivo a nome mio e dei miei 3 soci, con i quali ho avviato da poco **un’attività** di produzione e di vendita al dettaglio di bevande green **artigianali**. Il nome della società è GreenUs – partecipante al concerto di Piazza Duomo. Insieme a un noto influencer vorremmo **organizzare** un concerto in **Piazza** Duomo con l'obiettivo di mostrare come i giovani imprenditori possano avere un impatto significativo sullo sviluppo della città. La contattiamo per capire cosa dobbiamo fare per avere i seguenti permessi comunali che mancano per procedere. Inoltre, se fosse disponibile ci piacerebbe approfondire a voce il nostro progetto. 
+Rimaniamo in attesa di un suo cortese riscontro. Cordiali saluti, il team di **GreenUs**.
+---------------
+
+
+### Episodio 2 - Parola d'ordine: ordine
+D: Quale programma conviene utilizzare?
+R: Icona verde
+---------------
+D: Pietro: “Sappiamo quante persone saranno presenti. Come facciamo a fare una stima di quanti bicchieri comprare?” La mente matematica di Sara entra in azione: “Dunque, stimiamo che su 10.000 persone presenti, il 50% venga a bere al nostro stand. Sulla base della nostra esperienza sappiamo che, in media, circa la metà di quelli che bevono la Sbeerulina poi la comprano una seconda volta”.  Vedi Milo sbiancare: “E quindi… che calcolo dobbiamo fare???”
+R: IL 50% di 10.000 persone è 5.000. In media ogni persona beve 1,5 bicchieri di Sbeerulina. Quindi 5.000x1,5 = 7.500 bicchieri.
+---------------
+D: Pietro: “Ok, e una volta che abbiamo stabilito quanti bicchieri acquistare, come facciamo a capire quanto ci costeranno?” Sara: “Questa è facile”.
+R: Andando a vedere il prezzo di un singolo bicchiere e moltiplicando la cifra per il
+numero dei bicchieri da comprare. 
+---------------
+D: Pietro: “Ultima domanda.” Milo: “Finalmente…” Pietro: “Se ogni bicchiere contiene 25 centilitri, quanti litri di Sbeerulina dovrei produrre per riempire 7500 bicchieri?”
+R: Easy peasy... 25 cl equivalgono 0,25 litri. Fatta l'equivalenza basta a moltiplicare: 7500 x 0,25 = 1875.
+   Elementare! Per fare 1 litro servono 4 bicchieri da 25 cl. 7500 bicchieri da 25 cl diviso per 4... il risultato è 1875 litri.
+---------------
+D: Dove clicchiamo per inserire i primi dati (parole o numeri) ?
+R: Sulla cella rettangolare
+---------------
+D: Ora che abbiamo inserito i primi dati, dove clicchiamo per evidenziare una riga o una cella?
+R: Sulla icona che rovescia la vernice
+---------------
+D: Invece, dove clicchiamo per tracciare il bordo di una cella?
+R: Sul quadrato diviso in 4
+---------------
+D: Qual è la tabella corretta per il vostro Foglio Google?
+R: Sara
+---------------
+D: Qual è la formula per calcolare il costo finale di tutti bicchieri?
+R: Milo
+---------------
+D: Ora che avete capito come calcolare il costo finale, come calcolate la spesa complessiva?
+R: Milo
+---------------
+
+### Episodio 3 - L'unione fa il sito web
+D: Ora le idee sono più chiare… forse. Per scoprirlo sistema in modo corretto gli appunti che hai preso:
+R: Un CMS è un software che permette di creare **siti internet**.
+   Per definizione, un CMS è un sistema di gestione dei **contenuti**.
+   Con un CMS è possibile creare, modificare e personalizzare le varie parti di un sito, anche se non si è esperti di **programmazione**.
+---------------
+D: In questa situazione già caotica vi ci volevano anche i dilemmi di Pietro. Per dissipare i suoi dubbi, aiuta i tuoi soci ad ad inserire i termini corretti:
+R: **Software** è il termine usato in informatica per indicare l’insieme dei programmi che possono essere impiegati su un sistema di elaborazione dei dati, in contrapposizione al **Hardware**, che invece rappresenta la parte fisica di un computer. Il **Browser** è un’applicazione che, gestendo la comunicazione con i server e dando forma visiva a pagine e siti web, ci permette di navigare su internet. Non bisogna confonderlo con il **Motore di ricerca**, termine con cui si intendono quei siti web che hanno capacità di analizzare, catalogare e mettere in ordine tantissimi altri siti.
+---------------
+D: Milo: “Mmm ora che mi ci fai pensare anche io vorrei vedere meglio le definizioni di alcuni termini che incontro spesso.”
+R: **Cookie**: è un file memorizzato sul proprio computer che identifica il computer quando è collegato ad alcuni siti Internet e che, con il consenso dell’utente, può essere utilizzato con finalità commerciali. 
+   **Byte**: raggruppamento di 8 bit che il computer considera come una singola unità di informazione. 
+   **Firewall**: sistema di protezione del computer da accessi non desiderati. 
+   **Link** Collegamento tra un documento e un altro. 
+   **Hard Disk** È la principale unità di memorizzazione dei dati, in esso vengono memorizzati il sistema operativo, i programmi applicativi, i dati di configurazione del computer e quasi sempre i documenti creati dall’utente. Fisicamente si presenta come un disco metallico, ricoperto di materiale magnetico.
+   **Qwerty**: Tipo di tastiera diffuso in America, ma anche in Italia; prende il nome dalle prime lettere in alto a sinistra della tastiera. 
+   **RAM**: È la memoria dove vengono collocati i dati in fase di elaborazione; è detta volatile perché non trattiene le informazioni quando si spegne il computer.
+---------------
+D: Affrontati i dubbi di Pietro e Milo vi sentite tutti un po’ più preparati di prima e siete più pronti che mai a riprendere i lavori sul CMS. Dove eravate rimasti? Dovevate capire quale piattaforma scegliere.  Bando alle ciance quindi: quali di queste piattaforme sono CMS e possono quindi fare a caso vostro?
+R: Joomla: è un CMS
+   Shopify: è un CMS
+   Alibaba: non è un CMS
+   Wordpress: è un CMS
+---------------
+D: Seleziona l’opzione corretta:
+R: Una keyword è qualsiasi termine immesso su un motore di ricerca.
+---------------
+D: Il ragionamento di Sara fila. Secondo te, quindi, quali sono le parole chiave più ricercate online dal target di GreenUs? Seleziona l’opzione corretta (ruota il telefono in orizzontale per visualizzare l'immagine nel modo migliore)
+R: C; L; I
+---------------
+
+
+### Final Quiz
+D: Devi scrivere una mail: indica i nomi delle parti numerate in rosso: Devi scrivere una mail: indica i nomi delle parti numerate in rosso.
+R: 1. Destinatario; 2. Copia Conoscenza; 3. Oggetto della mail; 4. Corpo della mail
+---------------
+D: Quando scrivi un’e-mail formale a persone che non si conoscono personalmente, è bene specificare il motivo per cui le stai contattando.
+R: Vero
+---------------
+D: Devi scrivere una email formale: come organizzi il testo? Metti nel corretto ordine le parti fondamentali: ******
+R: 1. saluti e ti presenti; 2. spieghi il motivo per cui scrivi; 3. esponi gli altri concetti fondamentali in modo sintetico; 4. ringrazi e saluti.
+---------------
+D: Assegna i termini corretti agli elementi numerati nell’immagine:
+R: 1. Cella; 2. Riga; 3. Evidenzia cella; 4. Traccia bordi
+---------------
+D: Quando crei un file in Fogli Google, NON puoi personalizzare il testo all’interno di una cella dal punto di vista grafico (es. caratteri, colori, ecc.)
+R: Falso
+---------------
+D: Di questi tre modi di fare una somma con Fogli Google, uno è errato. Quale?
+R: SUM(A1+B1)
+---------------
+D: Cosa scrivi nella cella E3, per calcolare il costo totale dei bicchieri?
+R: =C3*D3
+---------------
+D: CMS vuol dire ...
+R: Content  Management  System
+---------------
+D: Seleziona l’opzione che descrive nel modo più corretto un CMS.
+R: Un CMS è un programma che consente la creazione e la gestione di siti web, senza dover ricorrere a tecniche di programmazione (coding)
+---------------
+D: Nei CMS non si possono caricare foto e video.
+R: Falso
+---------------
+
+
+## Contenuti extra
+### Approfondimento 1: Lo zen e l’arte dell’uso di Fogli Google o Microsoft Excel
+### Approfondimento 2: Come scrivere un'email efficace

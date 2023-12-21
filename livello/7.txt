@@ -1,0 +1,219 @@
+# Livello 7
+
+### Episodio 1 - Tutti intorno a un tavolo… da gioco!
+D: Costanza: "Ok Nicolò, tocca a te aggirare la trappola. Sei autorizzato a usare lo scassinatore." Tutti si girano verso di te, scassinatore... Aiuta Nicoló con una ricerca online sui diversi tipi e le diverse piattaforme di e-commerce per capire quale fa al caso vostro.
+R: Business to Consumer (B2C)
+---------------
+D: Costanza: "Scassinatore, tocca di nuovo a te andare in avanscoperta: quale dei seguenti passaggi è fondamentale quando inizi a costruire un e-commerce?"
+R: Definire quali sono le forme di pagamento accettate
+---------------
+D: Aiuta Milo e Clara a mettere in ordine le idee, riordinando dal primo all’ultimo i seguenti passaggi:
+R: 1. Disegnare un packaging originale dentro il quale confezionare i prodotti
+   2. Ideare un modo per personalizzare i prodotti per renderli più digital
+   3. Ideare sconti per attrarre il maggior numero di partecipanti
+---------------
+D: Costanza: "Molto bene. Ora che abbiamo finito con i preparativi, possiamo entrare nel vivo della missione." Se vuoi costruire un e-commerce...
+R: Puoi partire da siti già esistenti, CMS o piattaforme già attive
+---------------
+D: Seleziona quale definizione vuoi condividere con gli altri giocatori:
+R: I plugin sono dele funzionalità aggiuntive che permettono di aumentare gli strumenti utilizzabili di un sito, una piattaforma o un software
+---------------
+D: Non farti prendere dal panico! Dove clicchi per vedere i plugin di Wordpress?
+R: 2 'strumenti'
+---------------
+D: Hai smanettato? Quale plugin scegli di agganciare al vostro sito?
+R: Ecwid Ecommerce Shopping Cart
+---------------
+D: Ordinare i prodotti in categorie sull’e-commerce 
+R: Da fare
+---------------
+D: Aggiungere dei tag lunghi che descrivono completamente il prodotto 
+R: Da evitare
+---------------
+D: Associare ad ogni prodotto una descrizione dettagliata della storia di GreenUs e di HereWeApp 
+R: Da evitare
+---------------
+D: Collegare i social con l’e-commerce s
+R: Da fare
+---------------
+D: Quale potrebbe essere la migliore strategia di comunicazione per l’e-commerce?
+R: Sfruttare le funzionalità del Profilo dell' attività su Google e dei social
+---------------
+D: Scassinatore, aiutalo tu; cosa NON si può fare con Facebook Shops?
+R: Impostare sconti sui prodotti in modo automatico
+---------------
+D: Scassinatore ricostruisci il perché di questa scelta:
+R: Perché Facebook Shops si sta sviluppando per dare visibilità all'azienda che vende e non solo al prodotto ed è automaticamente integrato con Instagram, Messenger e WhatsApp
+---------------
+
+
+### Episodio 2 - Nome in codice: HTML
+D: Ora che avete gli appunti di Costanza, le cose iniziano ad essere più chiare… giusto? Pietro: "Quindi, se ho capito bene, l’Hyper Text Markup Language (o linguaggio a marcatori per ipertesti) è il linguaggio usato per i documenti del World Wide Web, giusto?"
+R: Giusto
+---------------
+D: Pietro: "Quando parliamo del contenuto dei siti web intendiamo documenti HTML, corretto?"
+R: Corretto
+---------------
+D: Pietro: "Quindi, se prendo una qualsiasi pagina web, ad esempio la schermata principale di Google Chrome, vedo gli elementi in HTML?"
+R: Falso
+---------------
+D: Pietro: "Ovviamente, esiste una sola versione di HTML... no?"
+R: No
+---------------
+D: Dove clicchi per vedere gli elementi di intestazione, i loghi e i titoli di un documento HTML?
+R: 1 'header'
+---------------
+D: Cosa va inserito, invece, nella sezione DTD?
+R: La versione del linguaggio HTML utilizzata nel documento
+---------------
+D: Dove clicchiamo per modificare il colore del testo "Home Page"?
+R: =color:Tomato
+---------------
+D: Dove clicchiamo per cambiare il peso del font della seconda riga, cambiando da grassetto a normale?
+R: /p
+---------------
+D: Dove clicchiamo per modificare la posizione della seconda riga sulla pagina di destra?
+R: /left
+---------------
+D: Quale, tra queste due opzioni, contiene un errore?
+R: quello senza .it
+---------------
+
+
+### Episodio 3 - Lancio!
+D: “Riassumendo: sappiamo che vogliamo farci conoscere e che vogliamo attirare più persone possibili alla nostra iniziativa. Come possiamo fare?”
+R: Vignetta viola
+---------------
+D: "Ok ragazzi ma da dove partiamo?"
+R: Vignetta rossa
+---------------
+D: "Hai ragione Michele! ...Quindi, che messaggi dovremmo comunicare con la nostra campagna?"
+R: Vignetta azzurra con carattere femminile
+---------------
+D: Pietro: "Mi piace questa cosa della promessa. Cosa vogliamo promettere alle persone per invogliarle a partecipare?"
+R: Here WeGreen: Incontrarsi online, come dal vivo. HereWeGreen vole farti vivere esperienze uniche... comodamente dal divano di casa tua. Partecipando ai nostri eventi online potrai accrescere la tua conoscenza SU determinate tematiche, entrando in contatto con persone con tuoi stessi interessi, senza rinunciare all' atmosfera degli eventi live grazie ai nostri unici events-pack e alla nostra sbeerulina artigianale.
+---------------
+D: Nicolò: "Ok, ciurma: a questo punto vogliamo decidere in quale direzione impostare la rotta?"
+R: Dobbiamo prima ragionare su quali sono -. nostri obiettivi, il nostro target e canali su cu vogliamo pubblicizzare l'evento.
+---------------
+D: Gli indicatori che ti dicono se stai raggiungendo o no gli obiettivi della tua campagna sono detti ______.
+R: KPI (Key Performance Indicator)
+---------------
+D: Il numero dei nuovi follower su Instagram 
+R: Vero
+---------------
+D: Il numero di iscrizioni all’evento su Facebook
+R: Vero
+---------------
+D: La felicità dei tuoi follower
+R: Falso
+---------------
+D: Siete a buon punto. Per concludere la fase 2, bisogna però decidere su quali canali lanciare la campagna…
+R: Icona di instagram
+---------------
+D: Per cominciare, ordina nel modo corretto le fasi della campagna di comunicazione:
+R: 1: "Teasing" creare curiosità svelando piccole cose riguardo la campagna
+   2: "Lancio" dare inizio ufficialmente alla campagna con la pubblicazione dei primi post
+   3: "Comunicazione" - attuare la campagna, pubblicando contenuti pianificati
+   4: "Follow up" continuare a far sentire la tua presenza online anche dopo la chiusura della campagna
+---------------
+D: La pagina web di un sito, con finalità informative, su cui il visitatore ‘’atterra’’ dopo aver cliccato sul link di un post o su una pubblicità, viene chiamata ______.
+R: Landing Page
+---------------
+D: Una landing page deve essere originale, creata su misura per l’iniziativa su cui fornisce informazioni
+R: Vero
+---------------
+D: Trattandosi di pagine web, anche le landing page vanno arricchite e ottimizzate con keyword efficaci
+R: Vero
+---------------
+D: La grafica e i testi della landing page devono essere coerenti con il post o la pubblicità che, via link, sono collegati ad essa
+R: Vero
+---------------
+D: Cosa suggerisci per far sì che la campagna del vostro evento diventi davvero popolare?
+R: Provare a contattare qualche influencer
+---------------
+D: Quali sono, secondo te, altre strategie utili per rendere virale una campagna?
+R: Iniziare ad acquistare pubblicità e contenuti a pagamento
+---------------
+D: Secondo te, quale tra i tuoi soci ha l’idea migliore?
+R: Icona di instagram
+---------------
+D: Dove clicchiamo per sponsorizzare questo post?
+R: Promuovi
+---------------
+D: Quanti soldi vogliamo metterci?" Clicca su Sara, Constanza o Clara per vedere i loro suggerimenti.
+R: Costanza
+---------------
+D: Quindi, contando che. vogliamo raggiungere almeno 300mila persone, quanto vogliamo che duri la sponsorizzazione di questo post?
+R: Milo
+---------------
+D: Secondo te, qual è il miglior modo per assicurarsi che l'investimento non vada perduto?
+R: Controllare frequentemente
+---------------
+
+
+### Final Quiz
+D: Associa a ciascun esempio la propria tipologia di e-commerce:
+R: 1. Marco ha appena comprato un nuovo paio di cuffie Bluetooth su Amazon: B2C
+   2. Mio zio ha una piccola cartoleria e sulla piattaforma AliBaba compra uno stock di gomme e matite da un’azienda: B2B
+   3. Su Ebay ho venduto la mia collezione di carte dei Pokemon a Yuki, un collezionista giapponese: C2C
+---------------
+D: Su WordPress puoi costruire il tuo e-commerce utilizzando particolari funzionalità aggiuntive chiamate CMS. 
+R: Falso
+---------------
+D: Prima di lanciare ufficialmente una campagna, è importante creare post o articoli che creino curiosità nei visitatori. Questa fase della campagna si chiama ...
+R: Teasing 
+---------------
+D: L’acronimo “KPI” vuol dire ... 
+R: Key  Performance  Indicators
+---------------
+D: Quali tra questi NON è un KPI valido?
+R: Il contenuto delle recensioni lasciate dagli utenti sul tuo prodotto
+---------------
+D: Riempi gli spazi con i termini corretti:
+R: Una **landing page** nel web marketing, è una pagina web pensata apposta per essere visitata da un utente dopo aver cliccato un link o una pubblicità.
+   La **home page** è solitamente la prima pagina di un sito web o un'applicazione web.
+   La **pagina dei contatti** permette agli utenti di comunicare con i gestori del sito.
+---------------
+D: 
+R: Quando navighi e apri una pagina Internet, quello che vedi sullo schermo del tuo computer e con cui interagisci si chiama **front end** mentre quello che sta dietro, ovvero le stringhe di linguaggio di programmazione, è detto **back end**.
+---------------
+D: Associa ad ogni definizione il termine corretto. La struttura di un documento HTML è caratterizzata da tre sezioni principali:
+R: 1. DTD: la dichiarazione del tipo di documento, una breve stringa che indica quale sintassi e quale versione di HTML viene utilizzata nel documento.
+   2. Head: la sezione dei titoli e delle informazioni per determinare alcune caratteristiche della pagina web o del contenuto.
+   3. Body: la sezione del corpo, invece, è quella che contiene tutti gli elementi visualizzati da browser. 
+---------------
+D: Con un account Instagram for Business puoi sincronizzare tutti i profili e le pagine Facebook della tua attività.
+R: Vero
+---------------
+D: Quando lanci un post sponsorizzato con Instagram for Business è possibile:
+R: 1. Scegliere di far comparire il post solo in alcune regioni: vero
+   2. Far comparire lo stesso post su Instagram, Facebook, Google, Youtube: falso
+   3. Impostare il numero delle persone da raggiungere: vero
+   4. Scegliere il target da raggiungere in base agli interessi delle persone: vero
+---------------
+
+
+## Contenuti extra
+### Approfondimento 1: Algoritmi, Big Data e A.I.
+### Approfondimento 2: Come promuovere il proprio business online
+### Approfondimento 3: I social come opportunità
+### Approfondimento 4: Come funziona l'algoritmo di Facebook?
+
+
+## Challenge Certificazione: Open Badge 'Gamer'
+### Sondaggio
+### Challenge Certificazione - Open Badge 'Gamer'
+D: Hai capito di che anno si parla? Hai smanettato con Google Trends? Hai trovato la sezione “un anno di ricerche”? Allora rispondi alle seguenti domande.
+R: Vero: In quell' anno, "World Cup" (Coppa del mondo) è stato il termine di ricerca più googlato al mondo; In quell'anno, in Italia, la Sardegna è stata la meta vacanze più googlata;
+   Falso: In quell'anno, "Black Panther" è stato il secondo trend con più interesse al mondo nella categoria film; In quell'anno, in Australia, la ricetta di cucina più googlata è stata la ricetta del pollo al curry;
+---------------
+D: Bene, adesso che hai visto la sezione “un anno di ricerche”, che ne dici di rispondere a questa domanda? Dai un’occhiata all’anno 2020. Nel 2020, in Italia, qual è stata la ricetta più ricercata su Google? 
+R: 
+---------------
+D: Con quale di questi codici puoi ottenere un testo in grassetto, di colore rosso, posto al centro della pagina?  Vuoi fare qualche prova prima di rispondere? Esercitati qui.
+R: 
+---------------
+D: Quale fra queste descrizioni del target è la più fedele rispetto ai dati forniti da Facebook? 
+R: Donne, italiane, di 25-34 anni, da Matera, con dispositivi Mobile
+---------------
