@@ -9,9 +9,25 @@ Vi chiedo gentilmente di mettere una `stella` e di condividere questa repo con i
 
 Alla fine avrete questi 3 badge:
 
-[![Gamer Badge](https://api.eu.badgr.io/public/assertions/FQrogZETQZGSAJ6Svpxx9w)]()
-[![Player Badge](https://api.eu.badgr.io/public/assertions/1V4EA0SWSuGtOm5LHBHOxQ)]()
-[![Newbie Badge](https://api.eu.badgr.io/public/assertions/lUO5CzSdSCqTb61wFZsGPw)]()
+<table>
+    <tr>
+        <td>
+            <a href="https://api.eu.badgr.io/public/assertions/FQrogZETQZGSAJ6Svpxx9w">
+                <img src="https://media.eu.badgr.com/uploads/badges/assertion-FQrogZETQZGSAJ6Svpxx9w.png" alt="Gamer badge">
+            </a>
+        </td>
+        <td>
+            <a href="https://api.eu.badgr.io/public/assertions/1V4EA0SWSuGtOm5LHBHOxQ">
+                <img src="https://media.eu.badgr.com/uploads/badges/assertion-1V4EA0SWSuGtOm5LHBHOxQ.png" alt="Player badge">
+            </a>
+        </td>
+        <td>
+            <a href="https://api.eu.badgr.io/public/assertions/lUO5CzSdSCqTb61wFZsGPw">
+                <img src="https://media.eu.badgr.com/uploads/badges/assertion-lUO5CzSdSCqTb61wFZsGPw.png" alt="Newbie badge">
+            </a>
+        </td>
+    </tr>
+</table>
 
 ## La nascita di GreenUs
 
