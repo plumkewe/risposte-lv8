@@ -1,4 +1,3 @@
-# 🧠
 # Risposte ai test di LV8
 Se siete qui, significa che avete **abbastanza intelligenza** da condurre una ricerca su Google e, di conseguenza, **superare** questo test che i vostri professori potrebbero avervi assegnato. Ma niente paura, tutte le risposte sono **qui sotto**! 
 
@@ -112,3 +111,23 @@ Alla fine avrete questi 3 badge:
     * Ep. - Generation Italy 
     * Ep. - NEETwork
     * Ep. - I 4 elementi per imparare: Quali sai governare?
+
+<hr>
+<details>
+  <summary>Google</summary>
+  <p>lv8<br>
+  lv8 soluzioni<br>
+  lv8 vodafone<br>
+  lv8 risposte<br>
+  lv8 accedi<br>
+  lv8 cos'è<br>
+  lv8 certificato<br>
+  codice evento lv8<br>
+  come funziona lv8<br>
+  lv8 login<br>
+  lv8 fondazione vodafone<br>
+  lv8 gioco<br>
+  lv8 greenus<br>
+  codice invito lv8<br>
+  greenus, via fratelli fraschini, milano, mi, italia</p>
+</details>
