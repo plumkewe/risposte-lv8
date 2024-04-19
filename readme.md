@@ -115,7 +115,7 @@ Alla fine avrete questi 3 badge:
 <hr>
 <details>
   <summary>Google</summary>
-  <p>lv8<br>
+    <p>lv8<br>
   lv8 soluzioni<br>
   lv8 vodafone<br>
   lv8 risposte<br>
@@ -129,5 +129,19 @@ Alla fine avrete questi 3 badge:
   lv8 gioco<br>
   lv8 greenus<br>
   codice invito lv8<br>
-  greenus, via fratelli fraschini, milano, mi, italia</p>
+  greenus, via fratelli fraschini, milano, mi, italia<br>
+  lv8 vodafone<br>
+  lv8 vodafone recensioni<br>
+  lv8 vodafone risposte<br>
+  lv8 fondazione vodafone<br>
+  lv8 app<br>
+  vodafone lv8<br>
+  lv8 eu<br>
+  lv8 login<br>
+  lv8 accedi<br>
+  lv 8<br>
+  lv8 soluzioni<br>
+  lv8 soluzioni pdf<br>
+  greenus<br>
+  greenus linkedin</p>
 </details>
